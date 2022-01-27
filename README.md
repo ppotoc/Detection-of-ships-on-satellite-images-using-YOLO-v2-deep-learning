@@ -1,4 +1,4 @@
-# Detection-of-ships-on-satellite-images-using-YOLO-v2-deep-learning
+# Detection of ships on satellite images using YOLO v2 deep-learning
 This MATLAB example demonstrates how to extract useful information from satellite images using a simple deep learning based ship detector, which can be included in a broad range of situational awareness sensors of maritime autonomous surface ships.
 
 1. Download MATLAB LiveScript "YOLO_ship_detector.mlx" and data "data.zip"
