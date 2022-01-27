@@ -8,6 +8,4 @@ This MATLAB example demonstrates how to extract useful information from satellit
     
 4. Unzip "data.zip" containing train and test images, and image labelling session data
  
-5. Change LiveScript parameter "doTraining" to train the model
-
-6. Run "YOLO_ship_detector.mlx"
+5. Run "YOLO_ship_detector.mlx" (change LiveScript parameter "doTraining" to train the model)
